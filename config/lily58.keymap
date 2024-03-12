@@ -12,7 +12,7 @@
 
 / {
     keymap {
-        compatible = "zmk,keymap";
+        compatible = "zmk,keymap,behavior-mouse-move";
 
         default_layer {
             // ------------------------------------------------------------------------------------------------------------
